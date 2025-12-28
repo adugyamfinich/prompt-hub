@@ -9,7 +9,7 @@ Thank you for your interest in contributing to PromptHub! This guide will help y
 1. **Fork the repository**
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/prompt-hub.git
+   git clone https://github.com/adugyamfinich/prompt-hub.git
    cd prompt-hub
    ```
 
