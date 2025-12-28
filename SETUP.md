@@ -39,7 +39,7 @@ git add .
 git commit -m "Initial commit: PromptHub setup"
 
 # Connect to GitHub
-git remote add origin https://github.com/YOUR-USERNAME/prompt-hub.git
+git remote add origin https://github.com/adugyamfinich/prompt-hub.git
 git branch -M main
 git push -u origin main
 ```
@@ -109,7 +109,7 @@ Replace placeholders in these files:
 **All link references:**
 ```bash
 # Find and replace
-YOUR-USERNAME → your-github-username
+adugyamfinich → your-github-username
 your-email@example.com → your@email.com
 ```
 
@@ -199,7 +199,7 @@ act push  # Simulate push event
 
 Already configured if you followed setup above. Documentation will be at:
 ```
-https://YOUR-USERNAME.github.io/prompt-hub/
+https://adugyamfinich.github.io/prompt-hub/
 ```
 
 ### Using MkDocs (Advanced)
@@ -262,7 +262,7 @@ npx all-contributors-cli add YOUR-NAME code,doc
 
 ### Enable GitHub Insights
 
-Built-in at: `https://github.com/YOUR-USERNAME/prompt-hub/insights`
+Built-in at: `https://github.com/adugyamfinich/prompt-hub/insights`
 
 ### Track Star History
 
@@ -270,7 +270,7 @@ Use: https://star-history.com/
 
 Embed in README:
 ```markdown
-[![Star History](https://api.star-history.com/svg?repos=YOUR-USERNAME/prompt-hub&type=Date)](https://star-history.com/#YOUR-USERNAME/prompt-hub)
+[![Star History](https://api.star-history.com/svg?repos=adugyamfinich/prompt-hub&type=Date)](https://star-history.com/#adugyamfinich/prompt-hub)
 ```
 
 ## 🔒 Security
