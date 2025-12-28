@@ -103,7 +103,7 @@ Replace placeholders in these files:
 
 **CODE_OF_CONDUCT.md:**
 ```markdown
-- Replace [INSERT CONTACT EMAIL] with enforcement contact
+- Replace [adu.oracledba@gmail.com] with enforcement contact
 ```
 
 **All link references:**
