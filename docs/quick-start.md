@@ -116,7 +116,7 @@ Got a great prompt? Share it with the community!
 
 ### Quick Submission (via GitHub Issue)
 
-1. Go to [Issues](https://github.com/YOUR-USERNAME/prompt-hub/issues)
+1. Go to [Issues](https://github.com/adugyamfinich/prompt-hub/issues)
 2. Click "New Issue"
 3. Select "Prompt Submission"
 4. Fill out the form
@@ -137,8 +137,8 @@ See our full [Contributing Guide](../CONTRIBUTING.md).
 
 ### Still Stuck?
 
-- 📝 [Open an issue](https://github.com/YOUR-USERNAME/prompt-hub/issues)
-- 💬 [Start a discussion](https://github.com/YOUR-USERNAME/prompt-hub/discussions)
+- 📝 [Open an issue](https://github.com/adugyamfinich/prompt-hub/issues)
+- 💬 [Start a discussion](https://github.com/adugyamfinich/prompt-hub/discussions)
 - 📧 Contact: [your-email@example.com]
 
 ## 📚 Learning Resources
@@ -201,7 +201,7 @@ Comment on prompts with your results to help others.
 - ⭐ Star the repository to show support
 - 📖 Browse prompts by [category](../README.md#browse-prompts)
 - 🤝 [Contribute](../CONTRIBUTING.md) your own prompts
-- 💬 Join [discussions](https://github.com/YOUR-USERNAME/prompt-hub/discussions)
+- 💬 Join [discussions](https://github.com/adugyamfinich/prompt-hub/discussions)
 
 ## 📞 Quick Links
 
