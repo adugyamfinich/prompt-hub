@@ -91,7 +91,7 @@ Individual prompts may have additional attribution requirements listed in their 
 
 - **Issues**: Report bugs or request features
 - **Discussions**: Share ideas and ask questions
-- **Twitter**: [@PromptHub](https://twitter.com/prompthub) (example)
+- **Twitter**: [@PromptHub](https://x.com/NichG29735)
 
 ## 🌟 Star History
 
