@@ -458,7 +458,7 @@ All prompts must:
 
 Think a category is missing or taxonomy should change?
 
-1. Open a [Discussion](https://github.com/YOUR-USERNAME/prompt-hub/discussions)
+1. Open a [Discussion](https://github.com/adugyamfinich/prompt-hub/discussions)
 2. Explain the problem with current system
 3. Propose a solution with examples
 4. Get community feedback
